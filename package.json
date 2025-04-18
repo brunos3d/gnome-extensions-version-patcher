@@ -1,0 +1,16 @@
+{
+  "name": "gnome-extensions-version-patcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "zx ./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^11.3.0",
+    "zx": "^8.5.3"
+  }
+}
