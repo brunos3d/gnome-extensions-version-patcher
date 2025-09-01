@@ -1,6 +1,6 @@
 #!/usr/bin/env zx
 
-import { $ } from "zx";
+// import { $ } from "zx";
 
 const GNOME_SHELL_VERSION_STDOUT = await $({
   quiet: true,
