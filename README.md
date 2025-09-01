@@ -41,11 +41,11 @@ npx zx https://raw.githubusercontent.com/brunos3d/gnome-extensions-version-patch
 Run with a custom directory:
 
 ```sh
-npx zx https://raw.githubusercontent.com/BrunoS3D/gnome-extensions-version-patcher/main/index.mjs --directory=/path/to/extensions
+npx zx https://raw.githubusercontent.com/brunos3d/gnome-extensions-version-patcher/main/index.mjs --directory=/path/to/extensions
 ```
 
 Preview changes without modifying files:
 
 ```sh
-npx zx https://raw.githubusercontent.com/BrunoS3D/gnome-extensions-version-patcher/main/index.mjs --dry-run
+npx zx https://raw.githubusercontent.com/brunos3d/gnome-extensions-version-patcher/main/index.mjs --dry-run
 ```
